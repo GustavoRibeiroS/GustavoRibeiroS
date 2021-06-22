@@ -4,7 +4,7 @@
 ![Snake animation](https://github.com/GustavoRibeiroS/GustavoRibeiroS/blob/output/github-contribution-grid-snake.svg)
 
 - 👔 I’m currently working on [**Vigor**](https://www.vigor.com.br/) 
-- 🌱 I’m currently learning C/C++ , .html , .css and more...
+- 🌱 I’m currently learning C/C++, .html, .css and more...
 - 📧 Reach me by the E-mail **gustavo.ribeiro1056@gmail.com**
 - 📚 I'm Studying **Computer Science** at the University **Anhembi Morumbi**
 
