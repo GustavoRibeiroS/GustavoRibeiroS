@@ -8,5 +8,5 @@
 - 📧 Reach me by the E-mail **gustavo.ribeiro1056@gmail.com**
 - 📚 I'm Studying **Computer Science** at the University **Anhembi Morumbi**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Ribeiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gustavo-ribeiro-36b27b180/)](https://https://www.linkedin.com/in/gustavo-ribeiro-36b27b180//)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Ribeiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-ribeiro-36b27b180/)](https://https://www.linkedin.com/in/gustavo-ribeiro-36b27b180//)
 
