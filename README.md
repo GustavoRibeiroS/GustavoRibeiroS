@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, My name is Gustavo Ribeiro</h1>
 <h4 align="center"> I'm from Brazil and this is my page from GitHub. Enjoy!😜 </h4>
 
+<div align="center">
+  <a href="https://github.com/GustavoRibeiroS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoRibeiroS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRibeiroS&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ![Snake animation](https://github.com/GustavoRibeiroS/GustavoRibeiroS/blob/output/github-contribution-grid-snake.svg)
 
 - 👔 I’m currently working at [**FMU**](https://portal.fmu.br/)
