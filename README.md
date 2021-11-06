@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Gustavo Ribeiro</h1>
+<h1 align="center">Hi 👋, my name is Gustavo Ribeiro</h1>
 <h4 align="center"> I'm from Brazil and this is my page from GitHub. Enjoy!😜 </h4>
 
 <div align="center">
